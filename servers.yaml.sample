@@ -1,0 +1,13 @@
+servers:
+  - host: "192.168.1.10"
+    port: 22
+    user: "user1"
+    password: "password123"
+  - host: "server.example.com"
+    port: 2222
+    user: "user2"
+    password: "securepassword"
+  - host: "192.168.1.11"
+    port: 22
+    user: "user1"
+    password: "password123"
